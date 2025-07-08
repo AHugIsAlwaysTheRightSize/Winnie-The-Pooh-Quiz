@@ -1,0 +1,29 @@
+body {
+    font-family: "Benton Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-style: italic;
+    color: #0d9c90;
+}
+
+h2 {
+    margin-top: 2em;
+}
+
+.question {
+    display: flex;
+    margin-top: 2em;
+}
+
+.answer-choice {
+    margin: 5px;
+}
+
+.answer-choice img {
+    height: 10em;
+}
+
+button {
+    margin-top: 5px;
+}
